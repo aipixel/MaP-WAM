@@ -21,9 +21,8 @@ Chenchu Zhang<sup>1</sup>, Huan Wang<sup>3</sup>,
 ## Release Plan
 
 - &#x2705; Repository created
-- &#x2B1C; Inference code
-- &#x2B1C; Pretrained checkpoints
-- &#x2B1C; RMBench data preparation and evaluation recipes
+- &#x2B1C; Training/Inference code
+- &#x2B1C; Checkpoints
 
 ## Overview
 
