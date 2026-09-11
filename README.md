@@ -3,7 +3,7 @@
 ### World-Action Modeling with Memory-Grounded Planning
 
 [![Project Page](https://img.shields.io/badge/Project%20Page-2563EB.svg?logo=googlechrome&logoColor=white)](https://sizhezhao.github.io/projects/MaP-WAM/)
-![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-8C959F.svg?logo=arxiv&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.11561-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.11561)
 ![Models](https://img.shields.io/badge/Models-Coming%20Soon-8C959F.svg?logo=huggingface&logoColor=white)
 
 Sizhe Zhao<sup>1</sup>, [Haozhe Xie](https://haozhexie.com/about/)<sup>2</sup>,
@@ -90,7 +90,7 @@ See the [project page](https://sizhezhao.github.io/projects/MaP-WAM/) for the pe
   author  = {Sizhe Zhao and Haozhe Xie and Weiyu Zhao and Chenchu Zhang and
              Huan Wang and Chenyang Wang and Qinglin Liu and Shengping Zhang},
   title   = {{Memory as Plans:} World-Action Modeling with Memory-Grounded Planning},
-  journal = {arXiv},
+  journal = {arXiv 2609.11561},
   year    = {2026}
 }
 ```
